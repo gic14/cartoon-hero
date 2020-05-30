@@ -118,13 +118,6 @@ margin-left:-40px;
 line-height: 190%;
 }
 
-a {
-  color: #997261;
-
-}
-a:hover {
-  color: #EF87A7;
-}
 
 ul li {
   font-family: futura-pt, sans-serif;
@@ -153,6 +146,14 @@ figure {
 
 figcaption {
   padding-bottom: 50px;
+}
+
+a {
+  color: #997261;
+
+}
+a:hover {
+  color: #EF87A7;
 }
 
 footer {
